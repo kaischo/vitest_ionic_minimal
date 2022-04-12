@@ -1,0 +1,761 @@
+// Vitest Snapshot v1
+
+exports[`ExploreContainer.vue > renders ExploreContainer 1`] = `
+VueWrapper {
+  "__app": {
+    "_component": {
+      "name": "VTU_ROOT",
+      "render": [Function],
+    },
+    "_container": <div
+      data-v-app=""
+    >
+      <div
+        data-v-483a685e=""
+        id="container"
+      >
+        <strong
+          data-v-483a685e=""
+        />
+        <p
+          data-v-483a685e=""
+        >
+          Explore 
+          <a
+            data-v-483a685e=""
+            href="https://ionicframework.com/docs/components"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            UI Components
+          </a>
+        </p>
+      </div>
+    </div>,
+    "_context": {
+      "app": [Circular],
+      "components": {
+        "transition": {
+          "name": "transition",
+        },
+        "transition-group": {
+          "name": "transition-group",
+        },
+      },
+      "config": {
+        "compilerOptions": {},
+        "errorHandler": undefined,
+        "globalProperties": {},
+        "isNativeTag": [Function],
+        "optionMergeStrategies": {},
+        "performance": false,
+        "warnHandler": undefined,
+      },
+      "directives": {},
+      "emitsCache": WeakMap {},
+      "mixins": [
+        {
+          "beforeCreate": [Function],
+        },
+      ],
+      "optionsCache": WeakMap {},
+      "propsCache": WeakMap {},
+      "provides": {},
+      "reload": [Function],
+    },
+    "_instance": {
+      "a": null,
+      "accessCache": {},
+      "appContext": {
+        "app": [Circular],
+        "components": {
+          "transition": {
+            "name": "transition",
+          },
+          "transition-group": {
+            "name": "transition-group",
+          },
+        },
+        "config": {
+          "compilerOptions": {},
+          "errorHandler": undefined,
+          "globalProperties": {},
+          "isNativeTag": [Function],
+          "optionMergeStrategies": {},
+          "performance": false,
+          "warnHandler": undefined,
+        },
+        "directives": {},
+        "emitsCache": WeakMap {},
+        "mixins": [
+          {
+            "beforeCreate": [Function],
+          },
+        ],
+        "optionsCache": WeakMap {},
+        "propsCache": WeakMap {},
+        "provides": {},
+        "reload": [Function],
+      },
+      "asyncDep": null,
+      "asyncResolved": false,
+      "attrs": {},
+      "bc": null,
+      "bm": null,
+      "bu": null,
+      "bum": null,
+      "c": null,
+      "components": null,
+      "ctx": {},
+      "da": null,
+      "data": {},
+      "directives": null,
+      "ec": null,
+      "effect": ReactiveEffect {
+        "active": true,
+        "allowRecurse": true,
+        "deps": [
+          Set {
+            [Circular],
+          },
+          Set {
+            [Circular],
+          },
+        ],
+        "fn": [Function],
+        "onTrack": undefined,
+        "onTrigger": undefined,
+        "parent": undefined,
+        "scheduler": [Function],
+      },
+      "emit": [Function],
+      "emitsOptions": null,
+      "emitted": null,
+      "exposeProxy": null,
+      "exposed": null,
+      "inheritAttrs": undefined,
+      "isDeactivated": false,
+      "isMounted": true,
+      "isUnmounted": false,
+      "m": null,
+      "next": null,
+      "parent": null,
+      "props": {},
+      "propsDefaults": {},
+      "propsOptions": [
+        {},
+        [],
+      ],
+      "provides": {},
+      "proxy": {},
+      "refs": {
+        "VTU_COMPONENT": {
+          "hasOwnProperty": [Function],
+          "name": undefined,
+        },
+      },
+      "render": [Function],
+      "renderCache": [],
+      "root": [Circular],
+      "rtc": null,
+      "rtg": null,
+      "scope": EffectScope {
+        "active": true,
+        "cleanups": [],
+        "effects": [
+          ReactiveEffect {
+            "active": true,
+            "allowRecurse": true,
+            "deps": [
+              Set {
+                [Circular],
+              },
+              Set {
+                [Circular],
+              },
+            ],
+            "fn": [Function],
+            "onTrack": undefined,
+            "onTrigger": undefined,
+            "parent": undefined,
+            "scheduler": [Function],
+          },
+        ],
+      },
+      "setupContext": null,
+      "setupState": {},
+      "slots": {},
+      "sp": null,
+      "subTree": {
+        "__v_isVNode": true,
+        "__v_skip": true,
+        "anchor": null,
+        "appContext": null,
+        "children": null,
+        "component": {
+          "a": null,
+          "accessCache": {
+            "@@__IMMUTABLE_ITERABLE__@@": 0,
+            "@@__IMMUTABLE_RECORD__@@": 0,
+            "constructor": 0,
+            "hasOwnProperty": 4,
+            "name": 3,
+            "toJSON": 0,
+            Symbol(Symbol.toStringTag): 0,
+          },
+          "appContext": {
+            "app": [Circular],
+            "components": {
+              "transition": {
+                "name": "transition",
+              },
+              "transition-group": {
+                "name": "transition-group",
+              },
+            },
+            "config": {
+              "compilerOptions": {},
+              "errorHandler": undefined,
+              "globalProperties": {},
+              "isNativeTag": [Function],
+              "optionMergeStrategies": {},
+              "performance": false,
+              "warnHandler": undefined,
+            },
+            "directives": {},
+            "emitsCache": WeakMap {},
+            "mixins": [
+              {
+                "beforeCreate": [Function],
+              },
+            ],
+            "optionsCache": WeakMap {},
+            "propsCache": WeakMap {},
+            "provides": {},
+            "reload": [Function],
+          },
+          "asyncDep": null,
+          "asyncResolved": false,
+          "attrs": {},
+          "bc": null,
+          "bm": null,
+          "bu": null,
+          "bum": null,
+          "c": null,
+          "components": {},
+          "ctx": {
+            "hasOwnProperty": [Function],
+            "name": undefined,
+          },
+          "da": null,
+          "data": {},
+          "directives": null,
+          "ec": null,
+          "effect": ReactiveEffect {
+            "active": true,
+            "allowRecurse": true,
+            "deps": [
+              Set {
+                [Circular],
+              },
+            ],
+            "fn": [Function],
+            "onTrack": undefined,
+            "onTrigger": undefined,
+            "parent": undefined,
+            "scheduler": [Function],
+          },
+          "emit": [Function],
+          "emitsOptions": null,
+          "emitted": null,
+          "exposeProxy": null,
+          "exposed": null,
+          "inheritAttrs": undefined,
+          "isDeactivated": false,
+          "isMounted": true,
+          "isUnmounted": false,
+          "m": null,
+          "next": null,
+          "parent": [Circular],
+          "props": {
+            "name": undefined,
+          },
+          "propsDefaults": {},
+          "propsOptions": [
+            {
+              "name": {
+                "0": false,
+                "1": true,
+                "type": [Function],
+              },
+            },
+            [],
+          ],
+          "provides": {},
+          "proxy": {
+            "hasOwnProperty": [Function],
+            "name": undefined,
+          },
+          "refs": {},
+          "render": [Function],
+          "renderCache": [],
+          "root": [Circular],
+          "rtc": null,
+          "rtg": null,
+          "scope": EffectScope {
+            "active": true,
+            "cleanups": [],
+            "effects": [
+              ReactiveEffect {
+                "active": true,
+                "allowRecurse": true,
+                "deps": [
+                  Set {
+                    [Circular],
+                  },
+                ],
+                "fn": [Function],
+                "onTrack": undefined,
+                "onTrigger": undefined,
+                "parent": undefined,
+                "scheduler": [Function],
+              },
+            ],
+          },
+          "setupContext": null,
+          "setupState": {},
+          "slots": {},
+          "sp": null,
+          "subTree": {
+            "__v_isVNode": true,
+            "__v_skip": true,
+            "anchor": null,
+            "appContext": null,
+            "children": [
+              {
+                "__v_isVNode": true,
+                "__v_skip": true,
+                "anchor": null,
+                "appContext": null,
+                "children": "",
+                "component": null,
+                "dirs": null,
+                "dynamicChildren": null,
+                "dynamicProps": null,
+                "el": <strong
+                  data-v-483a685e=""
+                />,
+                "key": null,
+                "patchFlag": 1,
+                "props": null,
+                "ref": null,
+                "scopeId": "data-v-483a685e",
+                "shapeFlag": 1,
+                "slotScopeIds": null,
+                "ssContent": null,
+                "ssFallback": null,
+                "staticCount": 0,
+                "suspense": null,
+                "target": null,
+                "targetAnchor": null,
+                "transition": null,
+                "type": "strong",
+              },
+              {
+                "__v_isVNode": true,
+                "__v_skip": true,
+                "anchor": null,
+                "appContext": null,
+                "children": [
+                  {
+                    "__v_isVNode": true,
+                    "__v_skip": true,
+                    "anchor": null,
+                    "appContext": null,
+                    "children": "Explore ",
+                    "component": null,
+                    "dirs": null,
+                    "dynamicChildren": null,
+                    "dynamicProps": null,
+                    "el": Explore ,
+                    "key": null,
+                    "patchFlag": 0,
+                    "props": null,
+                    "ref": null,
+                    "scopeId": "data-v-483a685e",
+                    "shapeFlag": 8,
+                    "slotScopeIds": null,
+                    "ssContent": null,
+                    "ssFallback": null,
+                    "staticCount": 0,
+                    "suspense": null,
+                    "target": null,
+                    "targetAnchor": null,
+                    "transition": null,
+                    "type": Symbol(Text),
+                  },
+                  {
+                    "__v_isVNode": true,
+                    "__v_skip": true,
+                    "anchor": null,
+                    "appContext": null,
+                    "children": "UI Components",
+                    "component": null,
+                    "dirs": null,
+                    "dynamicChildren": null,
+                    "dynamicProps": null,
+                    "el": <a
+                      data-v-483a685e=""
+                      href="https://ionicframework.com/docs/components"
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
+                      UI Components
+                    </a>,
+                    "key": null,
+                    "patchFlag": 0,
+                    "props": {
+                      "href": "https://ionicframework.com/docs/components",
+                      "rel": "noopener noreferrer",
+                      "target": "_blank",
+                    },
+                    "ref": null,
+                    "scopeId": "data-v-483a685e",
+                    "shapeFlag": 9,
+                    "slotScopeIds": null,
+                    "ssContent": null,
+                    "ssFallback": null,
+                    "staticCount": 0,
+                    "suspense": null,
+                    "target": null,
+                    "targetAnchor": null,
+                    "transition": null,
+                    "type": "a",
+                  },
+                ],
+                "component": null,
+                "dirs": null,
+                "dynamicChildren": null,
+                "dynamicProps": null,
+                "el": <p
+                  data-v-483a685e=""
+                >
+                  Explore 
+                  <a
+                    data-v-483a685e=""
+                    href="https://ionicframework.com/docs/components"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    UI Components
+                  </a>
+                </p>,
+                "key": null,
+                "patchFlag": -1,
+                "props": null,
+                "ref": null,
+                "scopeId": "data-v-483a685e",
+                "shapeFlag": 17,
+                "slotScopeIds": null,
+                "ssContent": null,
+                "ssFallback": null,
+                "staticCount": 0,
+                "suspense": null,
+                "target": null,
+                "targetAnchor": null,
+                "transition": null,
+                "type": "p",
+              },
+            ],
+            "component": null,
+            "dirs": null,
+            "dynamicChildren": [
+              {
+                "__v_isVNode": true,
+                "__v_skip": true,
+                "anchor": null,
+                "appContext": null,
+                "children": "",
+                "component": null,
+                "dirs": null,
+                "dynamicChildren": null,
+                "dynamicProps": null,
+                "el": <strong
+                  data-v-483a685e=""
+                />,
+                "key": null,
+                "patchFlag": 1,
+                "props": null,
+                "ref": null,
+                "scopeId": "data-v-483a685e",
+                "shapeFlag": 1,
+                "slotScopeIds": null,
+                "ssContent": null,
+                "ssFallback": null,
+                "staticCount": 0,
+                "suspense": null,
+                "target": null,
+                "targetAnchor": null,
+                "transition": null,
+                "type": "strong",
+              },
+            ],
+            "dynamicProps": null,
+            "el": <div
+              data-v-483a685e=""
+              id="container"
+            >
+              <strong
+                data-v-483a685e=""
+              />
+              <p
+                data-v-483a685e=""
+              >
+                Explore 
+                <a
+                  data-v-483a685e=""
+                  href="https://ionicframework.com/docs/components"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  UI Components
+                </a>
+              </p>
+            </div>,
+            "key": null,
+            "patchFlag": 0,
+            "props": {
+              "id": "container",
+            },
+            "ref": null,
+            "scopeId": "data-v-483a685e",
+            "shapeFlag": 17,
+            "slotScopeIds": null,
+            "ssContent": null,
+            "ssFallback": null,
+            "staticCount": 0,
+            "suspense": null,
+            "target": null,
+            "targetAnchor": null,
+            "transition": null,
+            "type": "div",
+          },
+          "suspense": null,
+          "suspenseId": 0,
+          "type": {
+            "__file": "/Users/kai/Desktop/ionic test/vitest_minimal/src/components/ExploreContainer.vue",
+            "__hmrId": "483a685e",
+            "__scopeId": "data-v-483a685e",
+            "components": {},
+            "name": "ExploreContainer",
+            "props": {
+              "name": [Function],
+            },
+            "render": [Function],
+          },
+          "u": null,
+          "uid": 1,
+          "um": null,
+          "update": [Function],
+          "vnode": [Circular],
+          "withProxy": null,
+        },
+        "dirs": null,
+        "dynamicChildren": null,
+        "dynamicProps": null,
+        "el": <div
+          data-v-483a685e=""
+          id="container"
+        >
+          <strong
+            data-v-483a685e=""
+          />
+          <p
+            data-v-483a685e=""
+          >
+            Explore 
+            <a
+              data-v-483a685e=""
+              href="https://ionicframework.com/docs/components"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              UI Components
+            </a>
+          </p>
+        </div>,
+        "key": null,
+        "patchFlag": 0,
+        "props": {
+          "ref": "VTU_COMPONENT",
+        },
+        "ref": {
+          "f": false,
+          "i": [Circular],
+          "k": undefined,
+          "r": "VTU_COMPONENT",
+        },
+        "scopeId": null,
+        "shapeFlag": 4,
+        "slotScopeIds": null,
+        "ssContent": null,
+        "ssFallback": null,
+        "staticCount": 0,
+        "suspense": null,
+        "target": null,
+        "targetAnchor": null,
+        "transition": null,
+        "type": {
+          "__file": "/Users/kai/Desktop/ionic test/vitest_minimal/src/components/ExploreContainer.vue",
+          "__hmrId": "483a685e",
+          "__scopeId": "data-v-483a685e",
+          "components": {},
+          "name": "ExploreContainer",
+          "props": {
+            "name": [Function],
+          },
+          "render": [Function],
+        },
+      },
+      "suspense": null,
+      "suspenseId": 0,
+      "type": {
+        "name": "VTU_ROOT",
+        "render": [Function],
+      },
+      "u": null,
+      "uid": 0,
+      "um": null,
+      "update": [Function],
+      "vnode": {
+        "__v_isVNode": true,
+        "__v_skip": true,
+        "anchor": null,
+        "appContext": {
+          "app": [Circular],
+          "components": {
+            "transition": {
+              "name": "transition",
+            },
+            "transition-group": {
+              "name": "transition-group",
+            },
+          },
+          "config": {
+            "compilerOptions": {},
+            "errorHandler": undefined,
+            "globalProperties": {},
+            "isNativeTag": [Function],
+            "optionMergeStrategies": {},
+            "performance": false,
+            "warnHandler": undefined,
+          },
+          "directives": {},
+          "emitsCache": WeakMap {},
+          "mixins": [
+            {
+              "beforeCreate": [Function],
+            },
+          ],
+          "optionsCache": WeakMap {},
+          "propsCache": WeakMap {},
+          "provides": {},
+          "reload": [Function],
+        },
+        "children": null,
+        "component": [Circular],
+        "dirs": null,
+        "dynamicChildren": null,
+        "dynamicProps": null,
+        "el": <div
+          data-v-483a685e=""
+          id="container"
+        >
+          <strong
+            data-v-483a685e=""
+          />
+          <p
+            data-v-483a685e=""
+          >
+            Explore 
+            <a
+              data-v-483a685e=""
+              href="https://ionicframework.com/docs/components"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              UI Components
+            </a>
+          </p>
+        </div>,
+        "key": null,
+        "patchFlag": 0,
+        "props": null,
+        "ref": null,
+        "scopeId": null,
+        "shapeFlag": 4,
+        "slotScopeIds": null,
+        "ssContent": null,
+        "ssFallback": null,
+        "staticCount": 0,
+        "suspense": null,
+        "target": null,
+        "targetAnchor": null,
+        "transition": null,
+        "type": {
+          "name": "VTU_ROOT",
+          "render": [Function],
+        },
+      },
+      "withProxy": null,
+    },
+    "_props": null,
+    "_uid": 0,
+    "component": [Function],
+    "config": {
+      "compilerOptions": {},
+      "errorHandler": undefined,
+      "globalProperties": {},
+      "isNativeTag": [Function],
+      "optionMergeStrategies": {},
+      "performance": false,
+      "warnHandler": undefined,
+    },
+    "directive": [Function],
+    "mixin": [Function],
+    "mount": [Function],
+    "provide": [Function],
+    "unmount": [Function],
+    "use": [Function],
+    "version": "3.2.32",
+  },
+  "__setProps": [Function],
+  "componentVM": {
+    "hasOwnProperty": [Function],
+    "name": undefined,
+  },
+  "isDisabled": [Function],
+  "rootVM": {},
+  "wrapperElement": <div
+    data-v-483a685e=""
+    id="container"
+  >
+    <strong
+      data-v-483a685e=""
+    />
+    <p
+      data-v-483a685e=""
+    >
+      Explore 
+      <a
+        data-v-483a685e=""
+        href="https://ionicframework.com/docs/components"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        UI Components
+      </a>
+    </p>
+  </div>,
+}
+`;

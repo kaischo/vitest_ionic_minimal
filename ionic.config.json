@@ -1,0 +1,7 @@
+{
+  "name": "ionic_vitest_minimal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
